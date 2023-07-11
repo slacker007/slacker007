@@ -17,6 +17,14 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slacker007&hide_border=true&theme=radical" />
 </p>
 
+### About Me:
+- 🔭 I’m currently working on Offensive modules for Quasar Rat (CSharp)
+- 🌱 I’m currently learning predictive search techniques (Python)
+- 👯 I’m looking to collaborate on anything fun/new/cool
+- 📫 How to reach me: slacker007.dev@gmail.com
+- ⚡ Fun fact: I'll get back to you on this one.....
+
+
 ### ⚡ Cyber Security Research & Tools
 Over the years I have worked on various projects ranging from small research projects to team based projects in support of OSS. The following work spans over 10 years of OSS development, training, and research. Most of the code is research for other operational projects for cyber threat hunting, red teaming, pentesting, and IR.
 
