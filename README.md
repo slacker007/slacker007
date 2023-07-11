@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 ### About Me:
-- 🔭 I’m currently working on Offensive modules for Quasar Rat (CSharp)
+- 🔭 I’m currently working on offensive modules for Quasar Rat (CSharp)
 - 🌱 I’m currently learning predictive search techniques (Python)
 - 👯 I’m looking to collaborate on anything fun/new/cool
 - 📫 How to reach me: slacker007.dev@gmail.com
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 ### ⚡ Cyber Security Research & Tools
 Over the years I have worked on various projects ranging from small research projects to team based projects in support of OSS. The following work spans over 10 years of OSS development, training, and research. Most of the code is research for other operational projects for cyber threat hunting, red teaming, pentesting, and IR.
 
+
+#### 🌱 Courses Authored
+* [SOC Immersion Training (SIT)](https://train.obscuritylabs.com/courses/sit-soc-immersion-training) - (2018) Co-Author, SIT is designed for intermediate-level cybersecurity and hunt team analysts to increase their functional knowledge of analytical thinking and concepts. By using demonstrated real-world attack methodologies in a step-by-step manner, SIT provides analysts with an in-depth understanding of how to analyze attack TTPs and the ability to construct complex IOCs derived from environment-specific threats and constraints.
 #### 💬 Confrence Talks & Research
 
 * [Finding Evil in DNS Traffic](https://www.slideshare.net/real_slacker007/finding-evil-in-dns-traffic) - [Video](https://youtu.be/Asfdcn9HNfk)
