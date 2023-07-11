@@ -46,21 +46,3 @@ Over the years I have worked on various projects ranging from small research pro
 * [Rapid Attack Infrastructure (RAI)](https://github.com/obscuritylabs/RAI) - Co-auther of team project to automate C2 redirector setup for Red Team OP's
 
 
-##### Host Collection & Modules
-
-
-##### Sniffers
-
-
-##### Payloads & Loaders 
-
-
-##### Persistence 
-
-
-##### Fuzzing
-
-
-##### 🔭 Research
-
-
