@@ -35,6 +35,12 @@ Over the years I have worked on various projects ranging from small research pro
 
 * [Finding Evil in DNS Traffic](https://www.slideshare.net/real_slacker007/finding-evil-in-dns-traffic) - [Video](https://youtu.be/Asfdcn9HNfk)
 
+
+##### Red Team Infrastructure
+
+* [Rapid Attack Infrastructure (RAI)](https://github.com/obscuritylabs/RAI) - Co-auther of team project to automate C2 redirector setup for Red Team OP's
+
+
 ##### Cyber Security Scripts/Tools
 
 * [BRO - Network Security Monitoring](https://github.com/slacker007/Bro-NetworkSecurityMonitoring) - Collection of Bro and bash scripts that when run from the same directory on a Linux distro with bro installed; will pull information such as active HTTP conns, FTP conns, DNS Request/Responses, And a live(-20 seconds) feed for files transmitted. It also carves the various types of files at the same time. They can be run against snort logs or pcaps.
@@ -51,9 +57,5 @@ Over the years I have worked on various projects ranging from small research pro
 
 * [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) - Contributed to custom C++ agent to learn various Windows C APIs and WMI process, service, driver monitoring supporting dynamic rule creation. Project was ultimately used for conference research and talk performed by @killswitch-gui. See confrence talk https://www.slideshare.net/AlexanderRymdekoHarv/rat-repurposing-adversarial-tradecraft
 
-
-##### Red Team Infrastructure
-
-* [Rapid Attack Infrastructure (RAI)](https://github.com/obscuritylabs/RAI) - Co-auther of team project to automate C2 redirector setup for Red Team OP's
 
 
