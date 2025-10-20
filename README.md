@@ -13,8 +13,34 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&&count_private=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slacker007&hide_border=true&theme=radical" />
+</p>
+
+<!-- GitHub's Native Activity Overview -->
+<details>
+<summary>📊 GitHub Activity Overview</summary>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=slacker007&theme=github-compact&hide_border=true)
+
+### Recent Activity Summary
+
+- **Total Repositories**: Public + Private contributions
+- **Contribution Graph**: Shows all commits including private repos (as activity squares)
+- **Language Usage**: Based on all repositories you have access to
+
+> Note: Private repository details are not exposed, but contribution activity is reflected in the graph above.
+
+</details>
+
+<!-- GitHub Profile Stats with Private Repo Support -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slacker007&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slacker007&theme=github_dark" alt="Top Languages"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slacker007&theme=github_dark" alt="Most Commit Language"/>
 </p>
 
 ### About Me:
