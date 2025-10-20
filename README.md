@@ -12,36 +12,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'll get back to you on this one.....
 -->
 
+<!-- GitHub Native Contribution Graph -->
+![GitHub Contribution Graph](https://github.com/slacker007/slacker007/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=86400" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slacker007&hide_border=true&theme=radical" />
 </p>
 
-<!-- GitHub's Native Activity Overview -->
-<details>
-<summary>📊 GitHub Activity Overview</summary>
+<!-- Real-time Activity Status -->
+### � Current Development Status
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=slacker007&theme=github-compact&hide_border=true)
+**Last Updated**: ![GitHub last commit](https://img.shields.io/github/last-commit/slacker007/slacker007?style=flat-square&color=green)
 
-### Recent Activity Summary
+**Active This Week**:
 
-- **Total Repositories**: Public + Private contributions
-- **Contribution Graph**: Shows all commits including private repos (as activity squares)
-- **Language Usage**: Based on all repositories you have access to
+- 🔥 Working on private offensive security modules
+- 🐍 Python predictive search implementations  
+- 🔒 Private repository contributions: **Check contribution graph above**
 
-> Note: Private repository details are not exposed, but contribution activity is reflected in the graph above.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-</details>
-
-<!-- GitHub Profile Stats with Private Repo Support -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slacker007&theme=github_dark" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slacker007&theme=github_dark" alt="Top Languages"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slacker007&theme=github_dark" alt="Most Commit Language"/>
-</p>
+> 💡 **Note**: My contribution graph above includes all activity from private repositories. Each green square represents real commits across all my projects!
 
 ### About Me:
 - 🔭 I’m currently working on offensive modules for Quasar Rat (CSharp)
