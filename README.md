@@ -5,23 +5,37 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Offensive modules for Quasar Rat (CSharp)
-- 🌱 I’m currently learning predictive search techniques (Python)
-- 👯 I’m looking to collaborate on anything fun/new/cool
+- 🔭 I'm currently working on Offensive modules for Quasar Rat (CSharp)
+- 🌱 I'm currently learning predictive search techniques (Python)
+- 👯 I'm looking to collaborate on anything fun/new/cool
 - 📫 How to reach me: slacker007.dev@gmail.com
 - ⚡ Fun fact: I'll get back to you on this one.....
 -->
 
-<!-- GitHub Native Contribution Graph -->
-![GitHub Contribution Graph](https://github.com/slacker007/slacker007/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=86400" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=slacker007&hide_border=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=slacker007&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slacker007&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=slacker007&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/slacker007/slacker007/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <!-- Real-time Activity Status -->
-### � Current Development Status
+### 🚀 Current Development Status
 
 **Last Updated**: ![GitHub last commit](https://img.shields.io/github/last-commit/slacker007/slacker007?style=flat-square&color=green)
 
