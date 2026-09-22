@@ -17,14 +17,19 @@ Here are some ideas to get you started:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=slacker007&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=slacker007&hide_border=true&theme=radical" alt="GitHub Streak" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slacker007&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=slacker007&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="300" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img width="100%" src="./profile/activity.svg" alt="GitHub contribution activity over the last 31 days" />
+</p>
+
+<sub>Stats refresh every six hours. Repository and language stats cover public repositories; contribution counts follow GitHub profile visibility.</sub>
 
 ### 🐍 Contribution Snake
 
@@ -45,10 +50,7 @@ Here are some ideas to get you started:
 - 🐍 Python predictive search implementations  
 - 🔒 Private repository contributions: **Check contribution graph above**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> 💡 **Note**: My contribution graph above includes all activity from private repositories. Each green square represents real commits across all my projects!
+> 💡 **Note**: Contribution graphs show activity visible on my GitHub profile, including anonymized private contributions when enabled. Contributions include commits, issues, pull requests, and reviews.
 
 ### About Me:
 - 🔭 I’m currently working on offensive modules for Quasar Rat (CSharp)
@@ -89,6 +91,4 @@ Over the years I have worked on various projects ranging from small research pro
 ##### Agents
 
 * [DeepFreeze-Agent](https://github.com/killswitch-GUI/DeepFreeze-Agent) - Contributed to custom C++ agent to learn various Windows C APIs and WMI process, service, driver monitoring supporting dynamic rule creation. Project was ultimately used for conference research and talk performed by @killswitch-gui. See confrence talk https://www.slideshare.net/AlexanderRymdekoHarv/rat-repurposing-adversarial-tradecraft
-
-
 
